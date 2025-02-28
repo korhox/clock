@@ -19,20 +19,31 @@ The following table is updated automatically by the `license-report` package. Th
 
 ---
 
-| Name                 | License Type | Version | Author                                             |
-| :------------------- | :----------- | :------ | :------------------------------------------------- |
-| react                | MIT          | 19.0.0  | n/a                                                |
-| react-dom            | MIT          | 19.0.0  | n/a                                                |
-| next                 | MIT          | 15.2.0  | n/a                                                |
-| @eslint/eslintrc     | MIT          | 3.3.0   | Nicholas C. Zakas                                  |
-| @tailwindcss/postcss | MIT          | 4.0.9   | n/a                                                |
-| @types/node          | MIT          | 22.13.5 | n/a                                                |
-| @types/react         | MIT          | 19.0.10 | n/a                                                |
-| @types/react-dom     | MIT          | 19.0.4  | n/a                                                |
-| eslint               | MIT          | 9.21.0  | Nicholas C. Zakas <nicholas+npm@nczconsulting.com> |
-| eslint-config-next   | MIT          | 15.2.0  | n/a                                                |
-| license-report       | MIT          | 6.7.1   | Yaniv Kessler                                      |
-| postcss              | MIT          | 8.5.3   | Andrey Sitnik <andrey@sitnik.ru>                   |
-| tailwindcss          | MIT          | 4.0.9   | n/a                                                |
-| typescript           | Apache-2.0   | 5.7.3   | Microsoft Corp.                                    |
+| Name                               | License Type        | Version | Author                                                             |
+| :--------------------------------- | :------------------ | :------ | :----------------------------------------------------------------- |
+| @fortawesome/fontawesome-svg-core  | MIT                 | 6.7.2   | The Font Awesome Team (https://github.com/orgs/FortAwesome/people) |
+| @fortawesome/free-brands-svg-icons | (CC-BY-4.0 AND MIT) | 6.7.2   | The Font Awesome Team (https://github.com/orgs/FortAwesome/people) |
+| @fortawesome/pro-light-svg-icons   | UNLICENSED          | 6.7.2   | The Font Awesome Team (https://github.com/orgs/FortAwesome/people) |
+| @fortawesome/pro-regular-svg-icons | UNLICENSED          | 6.7.2   | The Font Awesome Team (https://github.com/orgs/FortAwesome/people) |
+| @fortawesome/pro-solid-svg-icons   | UNLICENSED          | 6.7.2   | The Font Awesome Team (https://github.com/orgs/FortAwesome/people) |
+| @fortawesome/pro-thin-svg-icons    | UNLICENSED          | 6.7.2   | The Font Awesome Team (https://github.com/orgs/FortAwesome/people) |
+| @fortawesome/react-fontawesome     | MIT                 | 0.2.2   | n/a                                                                |
+| dayjs                              | MIT                 | 1.11.13 | iamkun                                                             |
+| next                               | MIT                 | 15.2.0  | n/a                                                                |
+| react                              | MIT                 | 19.0.0  | n/a                                                                |
+| react-dom                          | MIT                 | 19.0.0  | n/a                                                                |
+| sass                               | MIT                 | 1.85.1  | Natalie Weizenbaum nweiz@google.com https://github.com/nex3        |
+| @eslint/eslintrc                   | MIT                 | 3.3.0   | Nicholas C. Zakas                                                  |
+| @tailwindcss/postcss               | MIT                 | 4.0.9   | n/a                                                                |
+| @types/node                        | MIT                 | 22.13.5 | n/a                                                                |
+| @types/react                       | MIT                 | 19.0.10 | n/a                                                                |
+| @types/react-dom                   | MIT                 | 19.0.4  | n/a                                                                |
+| eslint                             | MIT                 | 9.21.0  | Nicholas C. Zakas <nicholas+npm@nczconsulting.com>                 |
+| eslint-config-next                 | MIT                 | 15.2.0  | n/a                                                                |
+| eslint-config-prettier             | MIT                 | 10.0.2  | Simon Lydell                                                       |
+| license-report                     | MIT                 | 6.7.1   | Yaniv Kessler                                                      |
+| postcss                            | MIT                 | 8.5.3   | Andrey Sitnik <andrey@sitnik.ru>                                   |
+| prettier                           | MIT                 | 3.5.2   | James Long                                                         |
+| tailwindcss                        | MIT                 | 4.0.9   | n/a                                                                |
+| typescript                         | Apache-2.0          | 5.7.3   | Microsoft Corp.                                                    |
 
