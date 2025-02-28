@@ -1,0 +1,25 @@
+{
+  "output": "markdown",
+  "fields": [
+    "name",
+    "licenseType",
+    "installedVersion",
+    "author"
+  ],
+  "tablemarkOptions": {
+    "columns": [
+      {
+        "name": "Name"
+      },
+      {
+        "name": "License Type"
+      },
+      {
+        "name": "Version"
+      },
+      {
+        "name": "Author"
+      }
+    ]
+  }
+}
